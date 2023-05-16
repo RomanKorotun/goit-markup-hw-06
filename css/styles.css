@@ -229,7 +229,7 @@ body {
 .header-menu-link::after {
   position: absolute;
   left: 0;
-  bottom: -3px;
+  bottom: -4px;
   display: block;
   content: '';
   width: 100%;
